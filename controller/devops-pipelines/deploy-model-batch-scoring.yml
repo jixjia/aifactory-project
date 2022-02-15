@@ -15,7 +15,7 @@ pool:
 resources:
   repositories:
     - repository: templates-mlops  # Template Repo
-      name: ai-factory-azure/templates-mlops
+      name: jixjia/aifactory-mlops
       endpoint: Github-Service-Endpoint
       type: github
 
